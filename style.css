@@ -45,6 +45,8 @@ span {
   outline: none;
   box-sizing: border-box;
   text-align: -webkit-match-parent;
+  border: none;
+  cursor: pointer;
 }
 
 #searchBar {
